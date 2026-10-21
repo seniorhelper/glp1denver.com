@@ -1,5 +1,5 @@
 # robots.txt — glp1denver.com
-# Colorado's GLP-1 Authority | Powered by Elevation Health
+# GLP-1 in Denver guide | Domain for sale
 
 User-agent: Googlebot
 Allow: /
